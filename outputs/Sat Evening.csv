@@ -1,0 +1,35 @@
+home_team,away_team,home_conference,away_conference,home_elo,away_elo,date,time (et),elo_diff,outlet,score
+Texas A&M,Notre Dame,SEC,FBS Independents,1681.0,1884.0,2024-08-31,19:30,203.0,ABC,36.05957767722474
+Georgia Tech,Georgia State,ACC,Sun Belt,1497.0,1416.0,2024-08-31,20:00,81.0,ACCN,35.542909883193126
+Alabama,Western Kentucky,SEC,Conference USA,1854.0,1466.0,2024-08-31,19:00,388.0,ESPN,33.8851607800111
+Michigan,Fresno State,Big Ten,Mountain West,1973.0,1558.0,2024-08-31,19:30,415.0,NBC,30.714330024813894
+Kentucky,Southern Mississippi,SEC,Sun Belt,1594.0,1276.0,2024-08-31,19:45,318.0,SECN,29.988254237419973
+Houston,UNLV,Big 12,Mountain West,1447.0,1496.0,2024-08-31,19:00,49.0,FS1,25.959553349875932
+Oregon,Idaho,Big Ten,Big Sky,1904.0,1000.0,2024-08-31,19:30,904.0,BTN,25.242943119970388
+Charlotte,James Madison,American Athletic,Sun Belt,1203.0,1691.0,2024-08-31,20:00,488.0,ESPNU,25.17489483272187
+Hawai'i,UCLA,Mountain West,Big Ten,1227.0,1568.0,2024-08-31,19:30,341.0,CBS,24.332673080550844
+Auburn,Alabama A&M,SEC,SWAC,1556.0,1000.0,2024-08-31,19:30,556.0,SECN+,0.0
+Rice,Sam Houston State,American Athletic,Conference USA,1362.0,1388.0,2024-08-31,19:00,26.0,ESPN+,0.0
+SMU,Houston Christian,ACC,Southland,1690.0,1000.0,2024-08-31,20:00,690.0,ACCNX,0.0
+SMU,Houston Christian,ACC,Southland,1690.0,1000.0,2024-08-31,20:00,690.0,ESPN+,0.0
+South Florida,Bethune-Cookman,American Athletic,SWAC,1442.0,1000.0,2024-08-31,19:00,442.0,ESPN+,0.0
+BYU,Southern Illinois,Big 12,MVFC,1409.0,1000.0,2024-08-31,20:00,409.0,BIG12|ESPN+,0.0
+Texas State,Lamar,Sun Belt,Southland,1399.0,1000.0,2024-08-31,20:00,399.0,ESPN+,0.0
+Ole Miss,Furman,SEC,Southern,1658.0,1000.0,2024-08-31,19:00,658.0,SECN+,0.0
+Texas Tech,Abilene Christian,Big 12,UAC,1541.0,1000.0,2024-08-31,19:30,541.0,BIG12|ESPN+,0.0
+Troy,Nevada,Sun Belt,Mountain West,1657.0,1222.0,2024-08-31,19:00,435.0,ESPN+,0.0
+Virginia,Richmond,ACC,CAA,1310.0,1000.0,2024-08-31,18:00,310.0,ACCNX,0.0
+Ole Miss,Furman,SEC,Southern,1658.0,1000.0,2024-08-31,19:00,658.0,ESPN+,0.0
+Mississippi State,Eastern Kentucky,SEC,UAC,1447.0,1000.0,2024-08-31,18:00,447.0,SECN+,0.0
+Mississippi State,Eastern Kentucky,SEC,UAC,1447.0,1000.0,2024-08-31,18:00,447.0,ESPN+,0.0
+Baylor,Tarleton State,Big 12,UAC,1422.0,1000.0,2024-08-31,19:00,422.0,BIG12|ESPN+,0.0
+Middle Tennessee,Tennessee Tech,Conference USA,Big South-OVC,1400.0,1000.0,2024-08-31,19:00,400.0,ESPN+,0.0
+Arkansas State,Central Arkansas,Sun Belt,UAC,1406.0,1000.0,2024-08-31,19:00,406.0,ESPN+,0.0
+Memphis,North Alabama,American Athletic,UAC,1569.0,1000.0,2024-08-31,19:00,569.0,ESPN+,0.0
+Louisiana Tech,Nicholls,Conference USA,Southland,1246.0,1000.0,2024-08-31,20:00,246.0,ESPN+,0.0
+Louisiana,Grambling,Sun Belt,SWAC,1496.0,1000.0,2024-08-31,20:00,496.0,ESPN+,0.0
+Liberty,Campbell,Conference USA,CAA,1572.0,1000.0,2024-08-31,18:00,572.0,ESPN+,0.0
+Kansas State,UT Martin,Big 12,Big South-OVC,1794.0,1000.0,2024-08-31,19:00,794.0,BIG12|ESPN+,0.0
+Auburn,Alabama A&M,SEC,SWAC,1556.0,1000.0,2024-08-31,19:30,556.0,ESPN+,0.0
+East Carolina,Norfolk State,American Athletic,MEAC,1404.0,1000.0,2024-08-31,18:00,404.0,ESPN+,0.0
+Virginia,Richmond,ACC,CAA,1310.0,1000.0,2024-08-31,18:00,310.0,ESPN+,0.0

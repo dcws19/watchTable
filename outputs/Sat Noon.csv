@@ -1,0 +1,12 @@
+home_team,away_team,home_conference,away_conference,home_elo,away_elo,date,time (et),elo_diff,outlet,score
+Vanderbilt,Virginia Tech,SEC,ACC,1284.0,1604.0,2024-08-31,12:00,320.0,ESPN,75.14419115202955
+West Virginia,Penn State,Big 12,Big Ten,1574.0,1833.0,2024-08-31,12:00,259.0,FOX,69.66625310173697
+Georgia,Clemson,SEC,ACC,2015.0,1676.0,2024-08-31,12:00,339.0,ABC,42.114654794920455
+Louisville,Austin Peay,ACC,UAC,1625.0,1000.0,2024-08-31,12:00,625.0,ACCN,32.82971563116879
+Pittsburgh,Kent State,ACC,Mid-American,1436.0,1158.0,2024-08-31,12:00,278.0,ESPNU,32.6002205679625
+Tennessee,Chattanooga,SEC,Southern,1751.0,1000.0,2024-08-31,12:45,751.0,SECN,28.91865529803073
+Maryland,Connecticut,Big Ten,FBS Independents,1630.0,1230.0,2024-08-31,12:00,400.0,FS1,24.888584989140053
+Iowa,Illinois State,Big Ten,MVFC,1550.0,1000.0,2024-08-31,12:00,550.0,BTN,22.18269962576502
+Purdue,Indiana State,Big Ten,MVFC,1492.0,1000.0,2024-08-31,12:00,492.0,BTN,21.683247852062873
+Navy,Bucknell,American Athletic,Patriot,1368.0,1000.0,2024-08-31,12:00,368.0,CBSSN,20.61995736582676
+Oklahoma State,South Dakota State,Big 12,MVFC,1522.0,1000.0,2024-08-31,14:00,522.0,BIG12|ESPN+,0.0

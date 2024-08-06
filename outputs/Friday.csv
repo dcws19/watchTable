@@ -1,0 +1,7 @@
+home_team,away_team,home_conference,away_conference,home_elo,away_elo,date,time (et),elo_diff,outlet,score
+Stanford,TCU,ACC,Big 12,1286.0,1587.0,2024-08-30,22:30,301.0,ESPN,35.01783806878872
+Duke,Elon,ACC,CAA,1602.0,1000.0,2024-08-30,19:30,602.0,ACCN,32.63118238419153
+Oklahoma,Temple,SEC,American Athletic,1786.0,1178.0,2024-08-30,19:00,608.0,ESPN,30.774776206366862
+Wisconsin,Western Michigan,Big Ten,Mid-American,1587.0,1315.0,2024-08-30,21:00,272.0,BTN,25.276734018669504
+Michigan State,Florida Atlantic,Big Ten,American Athletic,1392.0,1422.0,2024-08-30,19:00,30.0,BTN,25.084367245657567
+Army,Lehigh,American Athletic,Patriot,1425.0,1000.0,2024-08-30,18:00,425.0,CBSSN,21.107742401472525

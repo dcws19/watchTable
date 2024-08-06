@@ -1,0 +1,22 @@
+home_team,away_team,home_conference,away_conference,home_elo,away_elo,date,time (et),elo_diff,outlet,score
+Missouri,Murray State,SEC,MVFC,1744.0,1000.0,2024-08-29,20:00,744.0,SECN,68.85811114626875
+Minnesota,North Carolina,Big Ten,ACC,1492.0,1546.0,2024-08-29,20:00,54.0,FOX,36.74825174825175
+NC State,Western Carolina,ACC,Southern,1606.0,1000.0,2024-08-29,19:00,606.0,ACCN,32.66570327159156
+Arkansas,Arkansas-Pine Bluff,SEC,SWAC,1454.0,1000.0,2024-08-29,19:30,454.0,ESPNU,26.35661113080468
+Jacksonville State,Coastal Carolina,Conference USA,Sun Belt,1538.0,1448.0,2024-08-29,20:00,90.0,CBSSN,26.152782701169794
+Illinois,Eastern Illinois,Big Ten,Big South-OVC,1502.0,1000.0,2024-08-29,21:00,502.0,BTN,21.76928996739168
+Rutgers,Howard,Big Ten,MEAC,1460.0,1000.0,2024-08-29,18:00,460.0,BTN,21.408148215929337
+Colorado,North Dakota State,Big 12,MVFC,1324.0,1000.0,2024-08-29,20:00,324.0,ESPN,20.24516129032258
+Louisiana Monroe,Jackson State,Sun Belt,SWAC,1156.0,1000.0,2024-08-29,19:00,156.0,ESPN+,0.0
+Central Michigan,Central Connecticut,Mid-American,NEC,1333.0,1000.0,2024-08-29,19:00,333.0,ESPN+,0.0
+Bowling Green,Fordham,Mid-American,Patriot,1431.0,1000.0,2024-08-29,19:00,431.0,ESPN+,0.0
+Buffalo,Lafayette,Mid-American,Patriot,1357.0,1000.0,2024-08-29,19:00,357.0,ESPN+,0.0
+Kansas,Lindenwood,Big 12,Big South-OVC,1619.0,1000.0,2024-08-29,20:00,619.0,BIG12|ESPN+,0.0
+Toledo,Duquesne,Mid-American,NEC,1526.0,1000.0,2024-08-29,19:30,526.0,ESPN+,0.0
+Tulane,Southeastern Louisiana,American Athletic,Southland,1565.0,1000.0,2024-08-29,20:00,565.0,ESPN+,0.0
+Tulsa,Northwestern State,American Athletic,Southland,1248.0,1000.0,2024-08-29,20:00,248.0,ESPN+,0.0
+UAB,Alcorn State,American Athletic,SWAC,1363.0,1000.0,2024-08-29,20:00,363.0,ESPN+,0.0
+UCF,New Hampshire,Big 12,CAA,1578.0,1000.0,2024-08-29,19:00,578.0,BIG12|ESPN+,0.0
+Utah,Southern Utah,Big 12,UAC,1622.0,1000.0,2024-08-29,21:00,622.0,BIG12|ESPN+,0.0
+Wake Forest,North Carolina A&T,ACC,CAA,1431.0,1000.0,2024-08-29,19:00,431.0,ACCNX,0.0
+Wake Forest,North Carolina A&T,ACC,CAA,1431.0,1000.0,2024-08-29,19:00,431.0,ESPN+,0.0

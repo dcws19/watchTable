@@ -1,0 +1,21 @@
+home_team,away_team,home_conference,away_conference,home_elo,away_elo,date,time (et),elo_diff,outlet,score
+Florida,Miami,SEC,ACC,1562.0,1553.0,2024-08-31,15:30,9.0,ABC,39.05334987593052
+Syracuse,Ohio,ACC,Mid-American,1330.0,1522.0,2024-08-31,15:30,192.0,ACCN,34.872857712235955
+Texas,Colorado State,SEC,Mountain West,1850.0,1350.0,2024-08-31,15:30,500.0,ESPN,32.83148343511488
+South Carolina,Old Dominion,SEC,Sun Belt,1562.0,1406.0,2024-08-31,16:15,156.0,SECN,30.90406347299711
+Northwestern,Miami (OH),Big Ten,Mid-American,1498.0,1506.0,2024-08-31,15:30,8.0,BTN,28.311552247036115
+Ohio State,Akron,Big Ten,Mid-American,1876.0,1212.0,2024-08-31,15:30,664.0,CBS,26.84893374876397
+Georgia Southern,Boise State,Sun Belt,Mountain West,1384.0,1626.0,2024-08-31,16:00,242.0,ESPNU,26.223743732704307
+Nebraska,UTEP,Big Ten,Conference USA,1507.0,1296.0,2024-08-31,15:30,211.0,FOX,24.438012079217195
+Iowa State,North Dakota,Big 12,MVFC,1612.0,1000.0,2024-08-31,15:30,612.0,FS1,22.717489950979402
+Air Force,Merrimack,Mountain West,FCS Independents,1572.0,1000.0,2024-08-31,15:30,572.0,CBSSN,22.372372996591878
+Indiana,Florida International,Big Ten,Conference USA,1395.0,1164.0,2024-08-31,15:30,231.0,BTN,22.310772653375544
+Appalachian State,East Tennessee State,Sun Belt,Southern,1578.0,1000.0,2024-08-31,15:30,578.0,ESPN+,0.0
+Northern Illinois,Western Illinois,Mid-American,Big South-OVC,1446.0,1000.0,2024-08-31,15:30,446.0,ESPN+,0.0
+Marshall,Stony Brook,Sun Belt,CAA,1406.0,1000.0,2024-08-31,17:00,406.0,ESPN+,0.0
+South Alabama,North Texas,Sun Belt,American Athletic,1650.0,1412.0,2024-08-31,17:00,238.0,ESPN+,0.0
+Cincinnati,Towson,Big 12,CAA,1394.0,1000.0,2024-08-31,14:30,394.0,BIG12|ESPN+,0.0
+California,UC Davis,ACC,Big Sky,1483.0,1000.0,2024-08-31,17:00,483.0,ESPN+,0.0
+California,UC Davis,ACC,Big Sky,1483.0,1000.0,2024-08-31,17:00,483.0,ACCNX,0.0
+UMass,Eastern Michigan,FBS Independents,Mid-American,1141.0,1287.0,2024-08-31,15:30,146.0,ESPN+,0.0
+UT San Antonio,Kennesaw State,American Athletic,Conference USA,1598.0,1500.0,2024-08-31,15:30,98.0,ESPN+,0.0
