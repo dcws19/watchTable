@@ -1,12 +1,12 @@
 import pandas as pd
-from data import cfb_sched_import
+from helpers import cfb_sched_import
 from helpers.process_dates import process_dates
 
 # Dictionary to store DataFrames for each week
 weeks_dfs = {}
 
 # Loop through weeks 2 to 14
-for week in range(2, 15):
+for week in range(1, 15):
     week_json = cfb_sched_import.games_api.get_games(year=2024, division='fbs', week=week)
     week_df = pd.DataFrame.from_records([dict(home_team=w.home_team,
                                               away_team=w.away_team,

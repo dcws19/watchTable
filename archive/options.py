@@ -1,4 +1,4 @@
-from data import elos_preseason, weeks_2Plus
+from data import elos_preseason
 
 # Define the user's preferences
 preferred_teams = ['Missouri', 'Virginia Tech', 'Army']
