@@ -1,8 +1,9 @@
 import pandas as pd
-from data import weeks0_1
 
 # Import df with elos
-df = weeks0_1.week0_1_df
+# TODO: Search for week 1 and its ELOs for testing purposes
+elo_path = '/Users/JMM/Documents/GitHub/watchTable/outputs/full1.csv'
+df = pd.read_csv(elo_path)
 home = df[['home_team', 'home_elo']]
 away = df[['away_team', 'away_elo']]
 

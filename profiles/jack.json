@@ -1,0 +1,8 @@
+{
+    "name": "Jack",
+    "email": "jack@morrisroe.org",
+    "preferred_teams": ["Missouri", "Virginia Tech", "Army"],
+    "preferred_conferences": {"SEC": 1, "ACC": 2},
+    "weights": {"teams": 40, "close": 20, "conferences": 5, "best": 35},
+    "channels": ["broadcast", "cable", "web"]
+}

@@ -3,11 +3,12 @@ from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 
 
-def send_email():
+def send_email(html_file_path, subject, to_email):
     from_email = "morrisroe.jack@gmail.com"
-    to_email = "jack@morrisroe.org"
-    subject = "Test Python Email"
-    body = "This is the body of the test."
+
+    # Read the HTML file
+    with open(html_file_path, 'r') as file:
+        html_content = file.read()
 
     # SMTP server configuration
     smtp_server = "smtp.gmail.com"
@@ -16,11 +17,13 @@ def send_email():
     smtp_password = "rgva tsmn shtx ugev "
 
     # Create the email
-    msg = MIMEMultipart()
+    msg = MIMEMultipart('alternative')
     msg['From'] = from_email
     msg['To'] = to_email
     msg['Subject'] = subject
-    msg.attach(MIMEText(body, 'plain'))
+
+    # Attach the HTML content as the email body
+    msg.attach(MIMEText(html_content, 'html'))
 
     # Connect to the SMTP server and send the email
     try:
@@ -34,5 +37,10 @@ def send_email():
         print(f"Failed to send email: {e}")
 
 
+# Example code (will not run if imported by another script)
 if __name__ == "__main__":
-    send_email()
+    html = "/Users/JMM/Documents/GitHub/watchTable/emails/week1_report.html"
+    sub = "Week 1 Watch Tables"
+    email = "intalamu@yahoo.com"
+
+    send_email(html_file_path=html, subject=sub, to_email=email)
